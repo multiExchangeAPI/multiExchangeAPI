@@ -1,8 +1,5 @@
 # multiExchangeAPI
-
 Python tool to request data from any bitcoin exchange using standardized queries and receive responses in a standardized format.
-
-
 ###Standardized format
 Trade pair order matters, so btc_usd is bitcoin/usd pair, while usd_btc is the usd/bitcoin pair.
 
