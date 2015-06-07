@@ -4,7 +4,7 @@ Python tool to request data from any bitcoin exchange using standardized queries
 
 
 ###Standardized format
-Trade pair order matters, so btc_usd is bitcoin/usd pair, while btc_usd is the usd/bitcoin pair.
+Trade pair order matters, so btc_usd is bitcoin/usd pair, while usd_btc is the usd/bitcoin pair.
 
 
 ###Exchanges Supported
