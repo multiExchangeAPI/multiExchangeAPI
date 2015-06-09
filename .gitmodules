@@ -1,0 +1,3 @@
+[submodule "exchanges/okcoin/rest"]
+	path = exchanges/okcoin/rest
+	url = git@github.com:OKCoin/rest
