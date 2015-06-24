@@ -22,3 +22,20 @@ APIs tentatively planned for integration:
 - poloniex
 - shapeshift
 - kraken
+
+
+'''
+Notes for OKCoin
+
+submodule for okcoin REST APIs: git@github.com:OKCoin/rest
+python module requires python3, so I change #!/usr/bin/python to #!/usr/bin/python3
+
+
+'''
+Notes for Bitfinex
+
+submodule for Bitfinex REST APIs: 
+
+
+
+
